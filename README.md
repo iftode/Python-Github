@@ -14,3 +14,4 @@ This project is a practice exercise for learning GitHub basics. 
 
 - Submit a Pull Request with your changes.
 Am creat primul commit.
+Acesta este al doilea.
