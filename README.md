@@ -13,3 +13,4 @@ This project is a practice exercise for learning GitHub basics. 
 - Create a new branch for your feature. 
 
 - Submit a Pull Request with your changes.
+Am creat primul commit.
